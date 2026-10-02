@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="bmi_normal_color">#2E7D32</color> <!-- Xanh lá -->
+    <color name="bmi_warning_color">#F57C00</color> <!-- Vàng cam -->
+    <color name="bmi_danger_color">#D32F2F</color>  <!-- Đỏ -->
+</resources>
